@@ -1,6 +1,6 @@
 import requests
 
-APP_ACCESS_TOKEN = '3659496219.0c76baf.938997b7578c4782ac30574cc8fd59d4'
+APP_ACCESS_TOKEN = '4467014055.0c76baf.3a3c58d7e7624f1999c45d1368983dd9'
 BASE_URL = 'https://api.instagram.com/v1/'
 
 #function to print personal instagarm information
